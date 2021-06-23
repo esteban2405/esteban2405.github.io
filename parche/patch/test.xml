@@ -1,0 +1,11 @@
+<torrent_config
+   run_path="Patcher.exe"
+   run_path_enable="1"
+   bandwidth_range="1"
+   cur_patcher_path="Patcher.exe"
+   new_patcher_path="Patcher.exe"
+   new_patcher_crc32="Patcher.exe"
+   new_patcher_url="Patcher.exe">
+        <foreground_patch crcpatch_url="http://metin2restart.com/patch/" crcversion="0.0.0.1" />
+</torrent_config>
+
