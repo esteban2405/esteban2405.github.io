@@ -6,6 +6,6 @@
    new_patcher_path="metin2client.exe"
    new_patcher_crc32=""
    new_patcher_url="metin2_patcher.exe">
-        <foreground_patch crcpatch_url="http://mt2restart-ea305.web.app/parche/patch/" crcversion="0.0.0.1" />
+        <foreground_patch crcpatch_url="http://esteban2405.github.io/parche/patch/" crcversion="0.0.0.1" />
 </torrent_config>
 
